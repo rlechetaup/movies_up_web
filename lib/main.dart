@@ -2,6 +2,7 @@ import 'package:firebase/firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:movies_up_web/alerts.dart';
 import 'package:movies_up_web/pages/movies_page.dart';
+import 'package:movies_up_web/pages/send_push_page.dart';
 
 import 'firebase.dart';
 import 'movie.dart';
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MoviesPage(),
+      home: SendPushPage(),
     );
   }
 }
