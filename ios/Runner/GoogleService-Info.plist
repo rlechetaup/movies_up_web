@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>584117830759-45jekb9nm044lf0asmib477tu8ja1kkf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.584117830759-45jekb9nm044lf0asmib477tu8ja1kkf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>584117830759-uek4fs2ufsg2fmjuq18ucdio15r3i0ba.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASFrPyJdWyTxdAzBP9MjG8IpXj85Ue4yE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>584117830759</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>flutter.dev.moviesUpWeb</string>
+	<key>PROJECT_ID</key>
+	<string>moviesup2019b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moviesup2019b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:584117830759:ios:6db1dbed4286c6977140c2</string>
+	<key>DATABASE_URL</key>
+	<string>https://moviesup2019b.firebaseio.com</string>
+</dict>
+</plist>

@@ -6,7 +6,6 @@ class PushInput {
   String title;
   String msg;
   String token;
-
 }
 
 class PushApi {
